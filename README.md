@@ -1,3 +1,3 @@
-# 关于本仓库
+# Six degree
 
-### 本人创建这个仓库用以记录我2022年考研复习的资料！
+> Six degrees of separation is the idea that all people are six or fewer social connections away from each other. As a result, a chain of "friend of a friend" statements can be made to connect any two people in a maximum of six steps. It is also known as the six handshakes rule.
