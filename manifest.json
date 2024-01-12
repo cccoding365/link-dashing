@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "LinkDashing 链达",
+    "description": "Organize the bookmarks bar into a separate shortcut navigation page. 将书签栏整理成一个快捷导航页面。",
+    "version": "0.0.1",
+    "icons": {
+        "16": "image/16.png",
+        "128": "image/128.png"
+    }
+}
