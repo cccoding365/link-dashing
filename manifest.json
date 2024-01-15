@@ -13,5 +13,10 @@
     "background": {
         "service_worker": "service-worker.js",
         "type": "module"
-    }
+    },
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "bookmarks"
+    ]
 }
