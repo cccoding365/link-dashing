@@ -6,5 +6,12 @@
     "icons": {
         "16": "image/16.png",
         "128": "image/128.png"
+    },
+    "action": {
+        "default_popup": "hello.html"
+    },
+    "background": {
+        "service_worker": "service-worker.js",
+        "type": "module"
     }
 }
