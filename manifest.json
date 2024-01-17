@@ -8,7 +8,7 @@
         "128": "image/128.png"
     },
     "action": {
-        "default_popup": "hello.html"
+        "default_popup": "popup.html"
     },
     "background": {
         "service_worker": "service-worker.js",
@@ -18,5 +18,8 @@
         "activeTab",
         "contextMenus",
         "bookmarks"
+    ],
+    "host_permissions": [
+        "https://developer.chrome.com/*"
     ]
 }
